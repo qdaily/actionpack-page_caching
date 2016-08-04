@@ -1,3 +1,7 @@
+# 2.0 
+
+update Rails5
+
 # 1.0.2
 
 * Fix load order problem with other gems.
